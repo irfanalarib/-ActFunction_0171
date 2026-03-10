@@ -10,14 +10,14 @@ void input() {
     cin >> lebar;
 }    
 
-int luasPersegiPanjang() 
+int luasPersegi() 
 {
     return panjang * lebar;
 }
 
 void output()
 {
-    cout << "Hasilnya : " << luasPersegiPanjang();
+    cout << "Hasilnya : " << luasPersegi();
 }
 
 int main() 
