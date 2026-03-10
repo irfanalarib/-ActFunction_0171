@@ -19,3 +19,9 @@ void output()
 {
     cout << "Hasilnya : " << luasPersegiPanjang();
 }
+
+int main() 
+{
+    input();
+    output();
+}
