@@ -10,7 +10,7 @@ void input() {
     cin >> lebar;
 }
 
-int luasPersegiPanjang(int a, int b) 
+int luasPersegi(int a, int b) 
 {
     return a * b;
 }
